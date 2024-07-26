@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "personal-website",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../html-css-js-portfolio-tutorial-2/assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "personal-website"
+	}
+}
